@@ -3,8 +3,8 @@
 # [include]
 #    path = ~/.dotfiles/gitconfig
 [user]
-	name = Emerson Knapp
-	email = emerson.b.knapp@gmail.com
+	name = Sonia Jin
+	email = sjin.lihui@gmail.com
 [init]
 	templatedir=~/.git-templates/
 [alias]
