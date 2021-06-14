@@ -19,7 +19,7 @@
     columnWidth: 257
   "linter-flake8":
     projectConfigFile: [
-      "/home/emerson/dev/ros/master/src/ament/ament_lint/ament_flake8/ament_flake8/configuration/ament_flake8.ini"
+      "/home/sonia/dev/ros/master/src/ament/ament_lint/ament_flake8/ament_flake8/configuration/ament_flake8.ini"
     ]
   "linter-ui-default":
     panelHeight: 300
